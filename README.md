@@ -28,7 +28,7 @@ Components:
 
 ## Labs
 
-This tutorial assumes you use Freebernetes cloud [Google Cloud Platform](https://cloud.google.com) (free plan).
+This tutorial assumes you use Freebernetes cloud [Freebernetes Cloud Platform](https://XXX) (free plan).
 
 For the begginers:
 
