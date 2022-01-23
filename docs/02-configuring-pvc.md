@@ -37,5 +37,5 @@ persistentvolumeclaim/fileshare created
 
 kubectl get pvc
 NAME        STATUS   VOLUME   CAPACITY   ACCESS MODES   STORAGECLASS   AGE
-fileshare   Bound    nfs-pv   10Gi       RWX                           6s
+fileshare   Bound    nfs-pv   8Gi        RWX                           6s
 ```
