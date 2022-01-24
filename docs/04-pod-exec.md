@@ -37,6 +37,7 @@ Another example: run `my-shell` container from `ubuntu` image and execute `bash`
 kubectl run my-shell --rm -i --tty --image ubuntu -- bash
 ```
 
+Hint: You can regulate restart policy via `--restart` args, e.g: `--restart=Never`, `--restart=always` ...
 Hint:  while the command is being executed, the container will run and you can attach in parallel via:
 ```
 kubectl attach my-shell -c my-shell -i -t
