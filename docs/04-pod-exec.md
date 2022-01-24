@@ -43,4 +43,4 @@ kubectl attach my-shell -c my-shell -i -t
 ```
 
 
-Next: [Lesson 5: Pod exec](05-pod-exec.md)
+Next: [Lesson 5: Pod port forwarding](05-pod-port-forwarding.md)
