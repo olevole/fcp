@@ -22,4 +22,4 @@ To start working with the cluster, you must send a request to create a new Kuber
 ![cluster-info screenshot](images/cluster-info.png)
 
 
-Next: [Configuring PVC](02-configuring-pvc.md)
+Next: [Lesson 2: Configuring PVC](02-configuring-pvc.md)

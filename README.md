@@ -33,17 +33,18 @@ This tutorial assumes you use Freebernetes cloud [Freebernetes Cloud Platform](h
 For the begginers:
 
 * [Lesson 1: Get cluster](docs/01-get-cluster.md)
-* [Sesson 2: Configuring PVC](docs/02-configuring-pvc.md)
+* [Lesson 2: Configuring PVC](docs/02-configuring-pvc.md)
 * [Lesson 3: Pod deployment](docs/03-pod-deployment.md)
-* [Lesson 4: Pod port exposing](docs/04-pod-port-exposing.md)
-* [Lesson 5: Configure Ingress on externalIP](docs/05-ingress-extip.md)
-* [Lesson 6: Configure Balancer (metalb) on externalIP](docs/06-metalb-extip.md)
-* [Lesson 7: Configure Ingress behind the Balancer on ExrnalIP](docs/07-ingress-metalb-extip.md)
-* [Lesson 8: Configure Dashboard](docs/08-ingress-metalb-extip.md)
-* [Lesson 9: Configure VictoriaMetrics/Grafana stack](docs/09-victoriametrics-grafana.md)
-* [Lesson 10: Pod scaling](docs/10-pod-scaling.md)
-* [Lesson 11: Debugging/events](docs/11-debug-events.md)
-* [Lesson 12: ...](docs/12-debug-events.md)
+* [Lesson 4: Pod exec](docs/04-pod-exec.md)
+* [Lesson X: Pod port exposing](docs/04-pod-port-exposing.md)
+* [Lesson X: Configure Ingress on externalIP](docs/05-ingress-extip.md)
+* [Lesson X: Configure Balancer (metalb) on externalIP](docs/06-metalb-extip.md)
+* [Lesson X: Configure Ingress behind the Balancer on ExrnalIP](docs/07-ingress-metalb-extip.md)
+* [Lesson X: Configure Dashboard](docs/08-ingress-metalb-extip.md)
+* [Lesson X: Configure VictoriaMetrics/Grafana stack](docs/09-victoriametrics-grafana.md)
+* [Lesson X: Pod scaling](docs/10-pod-scaling.md)
+* [Lesson X: Debugging/events](docs/11-debug-events.md)
+* [Lesson X: ...](docs/12-debug-events.md)
 ...
 
 For advanced users:

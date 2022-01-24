@@ -39,3 +39,6 @@ kubectl get pvc
 NAME        STATUS   VOLUME   CAPACITY   ACCESS MODES   STORAGECLASS   AGE
 fileshare   Bound    nfs-pv   20Gi       RWX                           3s
 ```
+
+
+Next: [Lesson 3: Pod deployment](03-pod-deployment.md)
