@@ -15,7 +15,7 @@ nfs-pv   20Gi       RWX            Recycle          Available                   
 
 ## PVC
 
-An example of creating an arbitrary PVC named 'fileshare' on the 'nfs-pv' PV with a volume of 8Gi, tutorial/fileshare-pvc.yaml:
+An example of creating an arbitrary PVC named 'fileshare' on the 'nfs-pv' PV with a request of 8Gi, tutorial/fileshare-pvc.yaml:
 
 ```
 ---
@@ -37,5 +37,5 @@ persistentvolumeclaim/fileshare created
 
 kubectl get pvc
 NAME        STATUS   VOLUME   CAPACITY   ACCESS MODES   STORAGECLASS   AGE
-fileshare   Bound    nfs-pv   8Gi        RWX                           6s
+fileshare   Bound    nfs-pv   20Gi       RWX                           3s
 ```
